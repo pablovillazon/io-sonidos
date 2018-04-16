@@ -1,0 +1,8 @@
+{
+  "name": "sonidos",
+  "app_id": "b9108dcd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
